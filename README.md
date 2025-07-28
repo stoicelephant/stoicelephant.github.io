@@ -1,3 +1,4 @@
 # stoicelephant.github.io
-github site 
-hello???
+## Welcome to My Github Site
+
+### My name is James
