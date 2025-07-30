@@ -1,10 +1,10 @@
 body {
-    background-color: powderblue;
+    background-color: rgb(113, 233, 251);
     font-family: 'Ubuntu-Medium';
 }
 h1 {
-    color:blue;
+    color:black;
 }
 p {
-    color: blue;
+    color: grey;
 }
