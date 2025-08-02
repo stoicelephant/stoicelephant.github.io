@@ -7,4 +7,16 @@ h1 {
 }
 p {
     color: grey;
+    font-size: 13pt;
+    font-family: 'Ubuntu-Medium';
+}
+button {
+    margin-right: 40px;
+}
+h3 {color: grey;
+}
+ol {
+    color: grey;
+    font-family: 'Ubuntu-Medium';
+    font-size: 13pt;
 }
